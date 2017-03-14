@@ -3,8 +3,8 @@ channels:
   - nodefaults
   - conda-forge
 dependencies:
-  - python == 3.5
-  - jupyterhub == 0.6.1
+  - python=3.5
+  - jupyterhub=0.6.1
   - notebook >= 4.2
   - ipykernel >= 4.3
   - matplotlib
